@@ -1,6 +1,0 @@
-Since there's no mention of user registration, authentication, or role-based access, we will assume that users are pre-existing in the system.
-The API will not handle user creation; instead, users will be managed manually or through a separate system.
-There's no mention of restrictions on who can assign tasks.
-Users will be pre-existing (handled outside this API).
-Any user can assign tasks, but we will store the user who assigned each task for tracking.
-
